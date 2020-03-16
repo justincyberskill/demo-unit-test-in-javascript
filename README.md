@@ -24,6 +24,7 @@ Make sure that each isolated unit (function, method...) works correctly as we ex
 - Our brain can't remember all cases after long time (brain overwheled)
 
 So **unit test** is help us list all cases need to be test in Application's Requirement.
+
 We can cover all cases that we have and make sure our functions still work well after updated!
 
 <ins>Benefits</ins>
