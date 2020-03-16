@@ -1,2 +1,5 @@
-# js-testing-learn
-Javascript testing learning
+# Javascript testing with Jest - Learning Repository
+
+*Author: Lu Minh Thong*
+
+
